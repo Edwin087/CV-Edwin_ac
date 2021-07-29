@@ -567,7 +567,12 @@ progress::-moz-progress-bar {
   padding: 0.5rem;
   text-align: center;
   color: var(--white-color);
-  background-color: var(--third-color);
+  /* background-color: var(--third-color); */
+  background-color: var(--second-color);
+}
+.colorfooter {
+  color: gainsboro;
+  font-size: 15px;
 }
 
 .header {
